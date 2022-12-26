@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve RIB="011112223334445556666" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/hp/Documents/Controle_enset_xml_webService/xml_schema.xsd">
+    <dateReleve>2021-11-30</dateReleve>
+    <solde>14500</solde>
+    <operations dateDebut="2021-11-01" dateFin="2021-11-29">
+        <operation type="CREDIT" date="2021-11-01" montant="9000" description="Vers Espèce"></operation>
+        <operation type="DEBIT" date="2021-11-10" montant="3400" description="chèque Guichet"></operation>
+        <operation type="DEBIT" date="2021-11-15" montant="120" description="Prélévement Assurance"></operation>
+        <operation type="CREDIT" date="2021-11-29" montant="70000" description="Virement"></operation>
+    </operations>
+</releve>

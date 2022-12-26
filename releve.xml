@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "file:/C:/Users/hp/Documents/Controle_enset_xml_webService/releve.dtd">
+<releve RIB="011112223334445556666">
+    <dateReleve>2021-11-30</dateReleve>
+    <solde>14500</solde>
+    <operations dateDebut="2021-11-01" dateFin="2021-11-30">
+        <operation type="CREDIT" date="2021-11-01" montant="9000" description="Vers Espèce"/>
+        <operation type="DEBIT" date="2021-11-10" montant="3400" description="chèque Guichet"/>
+        <operation type="DEBIT" date="2021-11-15" montant="120" description="Prélévement Assurance"/>
+        <operation type="CREDIT" date="2021-11-29" montant="70000" description="Virement"/>
+    </operations>
+</releve>

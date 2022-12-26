@@ -1,0 +1,6 @@
+Bonjour Monsieur Youssfi,
+Pour la question 1 , j'ai établi deux réponses pour la question 1 :
+ - une réponse manuel . (question1.jpg)
+ - la deuxième généré par système.(xml_schema_schema.svg)
+
+Merci.
